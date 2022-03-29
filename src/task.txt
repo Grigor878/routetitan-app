@@ -1,0 +1,11 @@
+As a Driver, I want to see my route on the map (polyline).
+
+As a Driver, I want to see the stop markers on the map.
+
+As a Driver, I want to see the stops overview.
+
+As a Driver, I want to be able to Finish a stop.
+
+As a Driver, I want to be able to install the app as a PWA on my device.
+
+As a Driver, I want to be able to Navigate to a stop with the Google Maps app (BONUS)
